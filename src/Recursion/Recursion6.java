@@ -1,0 +1,21 @@
+package Recursion;
+
+public class Recursion6 {
+    static void main() {
+      int a=0;
+      int b=1;
+        System.out.println(a);
+        System.out.println(b);
+        int n=7;
+        printFib(0,1,n-2);
+    }
+
+    public static void printFib(int a,int b,int n){
+        if (n==0){
+            return;
+        }
+      int c=a+b;
+        System.out.println(c);
+        printFib(b,c,n-1);
+    }
+}
