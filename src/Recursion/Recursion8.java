@@ -1,7 +1,7 @@
 package Recursion;
 
 public class Recursion8 {
-    static void main() {
+   public static void main(String[] args) {
         String str="abcd";
         int i=str.length()-1;
         reverseString(str,i);

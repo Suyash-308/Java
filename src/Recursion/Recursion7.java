@@ -1,7 +1,7 @@
 package Recursion;
 
 public class Recursion7 {
-    static void main() {
+    public static void main(String[] args)  {
         int n=3;
         towerOfHanoi(n,"S","H","D");
 

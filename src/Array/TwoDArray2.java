@@ -3,7 +3,7 @@ package Array;
 import java.util.Scanner;
 
 public class TwoDArray2 {
-    static void main() {
+    public static void main(String[] args)  {
         Scanner scanner=new Scanner(System.in);
         int row=scanner.nextInt();
         int column=scanner.nextInt();

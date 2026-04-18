@@ -1,5 +1,5 @@
 public class Sorting {
-    static void main() {
+    public static void main(String[] args) {
         int [] array={8,7,3,1,2};
 
         for (int i = 0; i <array.length-1 ; i++) {

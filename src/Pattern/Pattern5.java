@@ -1,7 +1,7 @@
 package Pattern;
 
 public class Pattern5 {
-    static void main() {
+    public static void main(String[] args)  {
         int n=10;
         for (int i = 1; i <= n; i++) {
             // Left stars

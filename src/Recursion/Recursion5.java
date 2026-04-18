@@ -1,7 +1,7 @@
 package Recursion;
 
 public class Recursion5 {
-    static void main() {
+    public static void main(String[] args)  {
         int n=8;
         int ans=calcFactorial(n);
         System.out.println(ans);

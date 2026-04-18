@@ -3,7 +3,7 @@ package Collection;
 import java.util.ArrayList;
 
 public class Demo1 {
-    static void main() {
+    public static void main(String[] args) {
         ArrayList<Object> arrayList=new ArrayList<>();
         arrayList.add(23);
         arrayList.add("Hello");

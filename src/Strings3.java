@@ -1,5 +1,5 @@
 public class Strings3 {
-    static void main() {
+    public static void main(String[] args)  {
         StringBuilder sb=new StringBuilder("Hello");
         sb.setCharAt(0,'h');
         System.out.println(sb);

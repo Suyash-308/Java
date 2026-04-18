@@ -1,7 +1,7 @@
 package Recursion;
 
 public class Recursion4 {
-    static void main() {
+    public static void main(String[] args)  {
         sumOfNum( 1,5,0);
     }
 

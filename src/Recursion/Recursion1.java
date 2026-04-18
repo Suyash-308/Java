@@ -1,7 +1,7 @@
 package Recursion;
 
 public class Recursion1 {
-    static void main() {
+   public static void main(String[] args) {
         printNum(5);
     }
      public static void printNum(int n){

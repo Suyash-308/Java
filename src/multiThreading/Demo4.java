@@ -1,7 +1,7 @@
 package multiThreading;
 
 public class Demo4 {
-    static void main() {
+    public static void main(String[] args)  {
         Runnable r=()-> System.out.println("Lambda-Way");
         r.run();
     }

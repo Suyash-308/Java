@@ -1,7 +1,7 @@
 package multiThreading;
 
 public class Demo3 {
-    static void main() {
+    public static void main(String[] args) {
 
         Runnable runnable = new Runnable() {
             @Override

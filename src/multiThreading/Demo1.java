@@ -1,7 +1,7 @@
 package multiThreading;
 
 public class Demo1 {
-    static void main() {
+    public static void main(String[] args)  {
      Animal animal=new Animal();
      animal.start();
     }

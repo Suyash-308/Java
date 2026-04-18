@@ -1,5 +1,5 @@
 public class Strings1 {
-    static void main() {
+    public static void main(String[] args) {
         String str1="Hello";
         String str2="World";
 

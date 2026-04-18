@@ -1,5 +1,5 @@
 public class Strings2 {
-    static void main() {
+    public static void main(String[] args)  {
         String str="hello";
         System.out.println(str.substring(0,2));
     }

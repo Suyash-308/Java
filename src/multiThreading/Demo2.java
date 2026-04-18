@@ -1,7 +1,7 @@
 package multiThreading;
 
 public class Demo2 {
-    static void main() {
+    public static void main(String[] args) {
         Run run=new Run();
         Thread thread=new Thread(run);
         thread.start();

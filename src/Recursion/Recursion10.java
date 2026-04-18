@@ -1,7 +1,7 @@
 package Recursion;
 
 public class Recursion10 {
-    static void main() {
+    public static void main(String[] args) {
         String str="abxcxxd";
         moveAllX(str,0,0,"");
 
