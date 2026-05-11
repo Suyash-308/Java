@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Practice.iml" filepath="$PROJECT_DIR$/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Advance Java/Advance Java.iml" filepath="$PROJECT_DIR$/Advance Java/Advance Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java/core-java.iml" filepath="$PROJECT_DIR$/core-java/core-java.iml" />
     </modules>
   </component>
 </project>
