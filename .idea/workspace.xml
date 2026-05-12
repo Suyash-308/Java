@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d9c27e6c-feb0-403f-ba41-78c19f82ab1f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advance Java/JDBC/src/DemoUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Advance Java/JDBC/src/DemoUpdate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3DaPv3rQNaneIuecWuKDl5wvwkt" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -40,6 +39,7 @@
     "Application.Demo.executor": "Run",
     "Application.DemoCreate.executor": "Run",
     "Application.DemoInsert.executor": "Run",
+    "Application.DemoPrepareStatement.executor": "Run",
     "Application.DemoUpdate.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -54,14 +54,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DemoUpdate">
-    <configuration name="Array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array2" />
-      <module name="core-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DemoPrepareStatement">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo" />
       <module name="Advance Java" />
@@ -83,6 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DemoPrepareStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoPrepareStatement" />
+      <module name="Advance Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoUpdate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DemoUpdate" />
       <module name="Advance Java" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoPrepareStatement" />
         <item itemvalue="Application.DemoUpdate" />
         <item itemvalue="Application.DemoInsert" />
         <item itemvalue="Application.DemoCreate" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Array2" />
       </list>
     </recent_temporary>
   </component>
