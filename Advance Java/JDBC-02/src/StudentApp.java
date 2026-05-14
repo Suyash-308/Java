@@ -9,9 +9,11 @@ public class StudentApp {
 
         Student student=new Student();
         student.setId(3);
-        student.setName("Sachin");
-        student.setPhone("45678");
+        student.setName("Suyash");
+        student.setPhone("7589403");
 
-        studentController.createStudent(student);
+//        studentController.createStudent(student);
+//        studentController.deleteByID(2);
+        studentController.getById(1);
     }
 }

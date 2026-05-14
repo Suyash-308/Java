@@ -12,4 +12,12 @@ public class StudentController {
     public void createStudent(Student student) throws SQLException {
         studentService.createStudent(student);
     }
+
+    public void deleteByID(int id) throws SQLException {
+        studentService.deleteById(id);
+    }
+
+    public void getById(int id) throws SQLException{
+        studentService.getById(id);
+    }
 }
