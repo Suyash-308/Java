@@ -1,10 +1,10 @@
 package controller;
 
-import dao.StudentDao;
 import model.Student;
 import service.StudentService;
 
 import java.sql.SQLException;
+import java.util.List;
 
 public class StudentController {
     StudentService studentService=new StudentService();
@@ -19,5 +19,13 @@ public class StudentController {
 
     public void getById(int id) throws SQLException{
         studentService.getById(id);
+    }
+
+    public void updateStudent(Student student){
+        studentService.updateStudent(student);
+    }
+
+    public List<Student> getAllStudent(){
+        return studentService.getAllStudent();
     }
 }
