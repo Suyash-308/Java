@@ -6,6 +6,22 @@
   <component name="ChangeListManager">
     <list default="true" id="d9c27e6c-feb0-403f-ba41-78c19f82ab1f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advance Java/JDBC-03/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Advance Java/JDBC-03/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advance Java/Servlet-04HttpSessiob/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advance Java/Servlet-04HttpSessiob/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advance Java/Servlet-04HttpSessiob/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advance Java/Servlet-04HttpSessiob/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advance Java/Servlet-04HttpSessiob/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advance Java/Servlet-App- 02/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advance Java/Servlet-App- 02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advance Java/Servlet-App- 02/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advance Java/Servlet-App- 02/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advance Java/Servlet-App- 02/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/Array1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/Array1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/Array3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/Array3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/Array4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/Array4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/AverageNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/AverageNum.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +57,11 @@
     "Application.DemoInsert.executor": "Run",
     "Application.DemoPrepareStatement.executor": "Run",
     "Application.DemoUpdate.executor": "Run",
+    "Application.Demo_01.executor": "Run",
+    "Application.Demo_02.executor": "Run",
+    "Application.Demo_03.executor": "Run",
+    "Application.Demo_04.executor": "Run",
+    "Application.practice.Demo_01.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -54,49 +75,79 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DemoPrepareStatement">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo" />
-      <module name="Advance Java" />
+  <component name="RunManager" selected="Application.Demo_04">
+    <configuration name="Demo_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multiThreading.Demo_01" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multiThreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoCreate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoCreate" />
-      <module name="Advance Java" />
+    <configuration name="Demo_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.Demo_02" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoInsert" />
-      <module name="Advance Java" />
+    <configuration name="Demo_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.Demo_03" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoPrepareStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoPrepareStatement" />
-      <module name="Advance Java" />
+    <configuration name="Demo_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.Demo_04" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoUpdate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoUpdate" />
-      <module name="Advance Java" />
+    <configuration name="practice.Demo_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.Demo_01" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoPrepareStatement" />
-        <item itemvalue="Application.DemoUpdate" />
-        <item itemvalue="Application.DemoInsert" />
-        <item itemvalue="Application.DemoCreate" />
-        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Demo_04" />
+        <item itemvalue="Application.Demo_03" />
+        <item itemvalue="Application.Demo_02" />
+        <item itemvalue="Application.practice.Demo_01" />
+        <item itemvalue="Application.Demo_01" />
       </list>
     </recent_temporary>
   </component>
@@ -117,6 +168,11 @@
           <url>file://$PROJECT_DIR$/Advance Java/JDBC/src/DemoInsert.java</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core-java/src/practice/Demo_03.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
