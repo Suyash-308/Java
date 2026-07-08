@@ -1,3 +1,5 @@
+package Array;
+
 public class Array2 {
     public static void main(String[] args) {
         String[] str={"hello","vCard","d4"};
