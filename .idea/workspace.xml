@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d9c27e6c-feb0-403f-ba41-78c19f82ab1f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/src/Strings/overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/Strings/overloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/DemoEncapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/oops/DemoEncapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/Main1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/DemoEncapsulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/Main1.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +44,9 @@
     "Application.Demo6.executor": "Run",
     "Application.DemoCreate.executor": "Run",
     "Application.DemoEncapsulation.executor": "Run",
+    "Application.DemoInheritance.executor": "Run",
     "Application.DemoInsert.executor": "Run",
+    "Application.DemoOverLoading.executor": "Run",
     "Application.DemoPrepareStatement.executor": "Run",
     "Application.DemoUpdate.executor": "Run",
     "Application.Demo_01.executor": "Run",
@@ -50,6 +55,8 @@
     "Application.Demo_04.executor": "Run",
     "Application.Demo_05.executor": "Run",
     "Application.Demo_06.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main1.executor": "Run",
     "Application.ThreadImp.executor": "Run",
     "Application.overloading.executor": "Run",
     "Application.practice.Demo_01.executor": "Run",
@@ -67,10 +74,42 @@
     "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main1">
-    <configuration name="DemoEncapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoEncapsulation" />
+  <component name="RunManager" selected="Application.DemoOverriding">
+    <configuration name="DemoInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.DemoInheritance" />
       <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoOverLoading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.DemoOverLoading" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.DemoOverriding" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,39 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadImp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multiThreading.ThreadImp" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multiThreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.overloading" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoOverriding" />
+        <item itemvalue="Application.DemoOverLoading" />
+        <item itemvalue="Application.DemoInheritance" />
         <item itemvalue="Application.Main1" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DemoEncapsulation" />
-        <item itemvalue="Application.overloading" />
-        <item itemvalue="Application.ThreadImp" />
       </list>
     </recent_temporary>
   </component>
