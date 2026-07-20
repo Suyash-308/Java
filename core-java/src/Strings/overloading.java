@@ -1,12 +1,14 @@
 package Strings;
 
+
+
 class Animal1 {
     void sound() {
         System.out.println("Animal makes sound");
     }
 }
 
-class Dog1 extends Animal {
+class Dog1 extends Animal1 {
     void sound() {
         System.out.println("Dog barks");
     }
@@ -14,7 +16,7 @@ class Dog1 extends Animal {
 
 public class overloading {
     public static void main(String[] args) {
-        Animal a = new Dog(); // Reference type Animal, object type Dog
+        Animal1 a = new Dog1(); // Reference type Animal, object type Dog
         a.sound();            // Calls Dog's overridden method
     }
 }
