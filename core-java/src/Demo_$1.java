@@ -6,7 +6,9 @@ public class Demo_$1 {
    public static void main(String[] args) {
        String str = "Hii";
        String str1 = "Hii";
+       String s=new String("Hii");
 
+       System.out.println(str == s);
 
        System.out.println(str.hashCode());
        System.out.println(str.concat(" Alice"));
