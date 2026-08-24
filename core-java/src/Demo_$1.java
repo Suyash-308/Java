@@ -10,6 +10,8 @@ public class Demo_$1 {
 
        System.out.println(str == s);
 
+       System.out.println(str.equals(s));
+
        System.out.println(str.hashCode());
        System.out.println(str.concat(" Alice"));
 
