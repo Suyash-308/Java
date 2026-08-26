@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d9c27e6c-feb0-403f-ba41-78c19f82ab1f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/DSA/SearchInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/DSA/SearchInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-java/src/DSA/CountNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/src/DSA/CountNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +39,10 @@
     "Application.Array2.executor": "Run",
     "Application.AvgOfArray.executor": "Run",
     "Application.CheckArraySort.executor": "Run",
+    "Application.CheckPalindrome.executor": "Run",
     "Application.CountEvenOdd.executor": "Run",
     "Application.CountNum.executor": "Run",
+    "Application.CountVowels.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.Demo6.executor": "Run",
     "Application.DemoCreate.executor": "Run",
@@ -66,6 +68,7 @@
     "Application.Main1.executor": "Run",
     "Application.MinInArray.executor": "Run",
     "Application.ReverseArray.executor": "Run",
+    "Application.ReverseString.executor": "Run",
     "Application.SearchInArray.executor": "Run",
     "Application.SecLargeInArray.executor": "Run",
     "Application.SecMinInArray.executor": "Run",
@@ -92,7 +95,7 @@
       <recent name="C:\Users\SUYAS\IdeaProjects\Java\core-java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountNum">
+  <component name="RunManager" selected="Application.CountVowels">
     <configuration name="CheckArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DSA.CheckArraySort" />
       <module name="core-java" />
@@ -106,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA.CountEvenOdd" />
+    <configuration name="CheckPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.CheckPalindrome" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA.ReverseArray" />
+    <configuration name="CountVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.CountVowels" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -145,8 +148,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA.SearchInArray" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.ReverseString" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
@@ -160,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountVowels" />
+        <item itemvalue="Application.CheckPalindrome" />
+        <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.CountNum" />
         <item itemvalue="Application.CheckArraySort" />
-        <item itemvalue="Application.SearchInArray" />
-        <item itemvalue="Application.CountEvenOdd" />
-        <item itemvalue="Application.ReverseArray" />
       </list>
     </recent_temporary>
   </component>
